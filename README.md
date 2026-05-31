@@ -6,6 +6,12 @@ As Asia's largest science and technology festival, this website showcases a high
 
 ---
 
+## 🖥️ Live Preview
+
+![Techfest IIT Bombay 2026 CYBORG Landing Page Preview](assets/landing_page_sample.png)
+
+---
+
 ## ⚡ Key Features
 
 - **Cybernetic Theme & Aesthetics**: Custom-tailored, sleek dark mode palette with vibrant neon cyan (`#00f5ff`) and red (`#ff2d55`) accents, complete with glassmorphism overlays and scanline CRT grid textures.
@@ -65,8 +71,10 @@ All you need is a modern web browser (Google Chrome, Firefox, Safari, or Microso
 
 ```text
 Techfest-IIT-Bombay/
-├── index.html     # Main entrypoint containing site markup, styles, and scripts
-└── README.md      # Project overview and instructions
+├── assets/
+│   └── landing_page_sample.png  # Website preview screenshot
+├── index.html                   # Main entrypoint containing site markup, styles, and scripts
+└── README.md                    # Project overview and instructions
 ```
 
 ---
